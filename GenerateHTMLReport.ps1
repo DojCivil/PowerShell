@@ -41,7 +41,7 @@ https://www.github.com/DojCivil
     $customerArray=@() 
     $date = Get-Date
     $me = $env:USERNAME
-    $vReport = "./MigratedCutstomers.htm"
+    $vReport = "./SampleReport.htm"
     $i = 1
     Write-Host -ForegroundColor Green "Script Processing"
    
