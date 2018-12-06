@@ -2,7 +2,7 @@
 PowerShell Automation
 
 
-<h1> Discription </h1>
+<h1> Description </h1>
 <p> This is a function that will assist with creating HTML/CSS style reports from powershell. It provides a more appealing report than traditional text output and will email the report as an attachment once generated. This specific report targets a specific AD group's members; however, this can be changed to fit your business needs. You can extend the functionality to create more complex reports and even change some of the HTML/CSS formatting. 
  </p>
 
@@ -29,7 +29,9 @@ GenerateHTMLReport
 </p> 
 
 <h2> Meta Data </h2>
-<a href="https://github.com/DojCivil/PowerShell"> License Information </a>
+Author: Department of Justice Civil Division
+<a href="https://github.com/DojCivil/PowerShell"> MIT License Information </a>
+
 
 
 
