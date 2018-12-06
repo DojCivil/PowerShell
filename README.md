@@ -29,7 +29,7 @@ GenerateHTMLReport
 </p> 
 
 <h2> Meta Data </h2>
-Author: Department of Justice Civil Division
+Author: Department of Justice Civil Division </br>
 <a href="https://github.com/DojCivil/PowerShell"> MIT License Information </a>
 
 
