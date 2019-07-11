@@ -3,7 +3,7 @@ PowerShell Automation
 
 
 <h1> Description </h1>
-<p> This is a function that will assist with creating HTML/CSS style reports from powershell. This script provides a more modern report than traditional text output and will email the report as an attachment once generated. This specific report targets a specific AD group's members; however, this can be changed to fit your business needs. You can extend the functionality to create more complex reports and change some of the HTML/CSS formatting. 
+<p> This is a function that will assist with creating HTML/CSS style reports from powershell. This script provides a more modern report than traditional text output and will email the report as an attachment once generated. This specific report targets a specific AD group's members; however, this can be revised to fit your business requirements. You can extend the functionality to create more complex reports and modify the HTML/CSS formatting to create a custom look. 
  </p>
 
 <h2> Examples </h2>
